@@ -2,7 +2,7 @@
   <img src="./assets/holo3.jpg" width="300">
 </div>
 
-<h1 align="center">Projeto Podcast Desvendando Hologramas</h1>
+<h1 align="center">Podcast Desvendando Hologramas</h1>
 
 <p align="center">
   <a href="https://dio.me/">
@@ -35,6 +35,7 @@ Projeto com o objetivo de criar um podcast utilizando ferramentas de IA para fac
 
 ##
 
-[Linkedin] https://www.notion.so/rosanatsf/Rosanatsf
-[Notion] https://www.linkedin.com/in/rosanatsf/
-Por Rosana TSF
+[![Linkedin](https://img.shields.io/badge/RosanaTSF-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosanatsf/)
+[![Notion](https://img.shields.io/badge/RosanaTSF-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/rosanatsf/Rosanatsf)
+
+##
