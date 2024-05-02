@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/holo3.jpg"
+    src="./assets/holo4.jpg"
     width="300"
 />
 </p>
