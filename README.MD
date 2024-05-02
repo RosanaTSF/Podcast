@@ -35,7 +35,7 @@ Projeto com o objetivo de criar um podcast utilizando ferramentas de IA para fac
 
 ##
 
-[![Linkedin](https://img.shields.io/badge/RosanaTSF-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosanatsf/)
+[![Linkedin](https://img.shields.io/badge/RosanaTSF-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosanatsf/) <br/>
 [![Notion](https://img.shields.io/badge/RosanaTSF-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/rosanatsf/Rosanatsf)
 
 ##
