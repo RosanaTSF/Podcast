@@ -34,3 +34,7 @@ Projeto com o objetivo de criar um podcast utilizando ferramentas de IA para fac
 - Capcut para edição de áudio e adição de sons de fundo
 
 ##
+
+[Linkedin] https://www.notion.so/rosanatsf/Rosanatsf
+[Notion] https://www.linkedin.com/in/rosanatsf/
+Por Rosana TSF
