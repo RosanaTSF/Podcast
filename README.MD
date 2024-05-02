@@ -1,5 +1,7 @@
 <div align="center">
   <img src="./assets/holo3.jpg" width="300">
+  <img src="./assets/holo2.jpg" width="300">
+  <img src="./assets/holo1.jpg" width="300">
 </div>
 
 <h1 align="center">Podcast Desvendando Hologramas</h1>
