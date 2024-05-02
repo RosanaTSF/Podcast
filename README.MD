@@ -23,10 +23,10 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="https://rosanatsf.notion.site/Podcast-Desvendando-Hologramas-b61fb4410b2f4e30bf14d5c784a1806c?pvs=4"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+# Projeto Podcast Desvendando Hologramas
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
