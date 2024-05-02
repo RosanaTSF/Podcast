@@ -19,7 +19,7 @@
 </p>
 <div align="center">
   <a href="https://rosanatsf.notion.site/Podcast-Desvendando-Hologramas-b61fb4410b2f4e30bf14d5c784a1806c#14522f363c0047d184f6d55281e8da8f" target="_blank" rel="noopener noreferrer">
-    Acesse o podcast no Notion
+    Ouça o Podcast
   </a>
 </div>
 
